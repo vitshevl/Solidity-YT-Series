@@ -6,9 +6,10 @@ Hardhat is a development environment for Ethereum software. It consists of diffe
 ### Useful commands
 
 - Создание нового npm проекта: `npm init -y`    
-- Подключение hardhat: `npm install --save-dev hardhat` 
+- Подключение  Hardhat: `npm install --save-dev hardhat` 
 - Создание проекта Hardhat: `npx hardhat` 
 - Запуск Hardhat ноды  : `npx hardhat node` _(127.0.0.1:8545)_
+- Проверка покрытия тестами: `npx hardhat coverage` 
 
 ## [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/)
 
