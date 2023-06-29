@@ -1,5 +1,6 @@
-node_modules/
-package-lock.json
-.vscode
-cache/
-artifacts/
+*
+!*.sol
+!*/test/*.js
+!README.md
+!.gitignore
+!*/contracts/*.sol
