@@ -14,3 +14,9 @@ Hardhat is a development environment for Ethereum software. It consists of diffe
 ## [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/)
 
 Waffle is a library for writing and testing smart contracts. Sweeter, simpler and faster than Truffle. Works with ethers-js.
+
+## [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
+A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+
+
