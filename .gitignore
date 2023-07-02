@@ -1,6 +1,7 @@
-*
-!*.sol
-!*/test/*.js
-!README.md
-!.gitignore
-!*/contracts/*.sol
+node_modules/
+package-lock.json
+.vscode
+cache/
+artifacts/
+hardhat.config.js
+package.json

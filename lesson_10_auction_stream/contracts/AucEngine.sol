@@ -57,7 +57,7 @@ contract AucEngine {
         return cAuction.startingPrice - discount;
     }
 
-    function buy (uint index) external payable {
+    function buy(uint index) external payable {
         Auction storage cAuction = auctions[index];
         require(!cAuction.stopped, "stopped!");
         require(block.timestamp < cAuction.endsAt, "ended!");
